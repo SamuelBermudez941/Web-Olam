@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 70" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Logo OLAM</title>
+  <desc id="logoDesc">Logotipo con texto OLAM en degradado azul y gris oscuro con estilo moderno.</desc>
+  <defs>
+    <linearGradient id="olamGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0069d9" />
+      <stop offset="100%" stop-color="#00a8ff" />
+    </linearGradient>
+  </defs>
+  <text x="0" y="48" font-family="Poppins, Arial, sans-serif" font-size="48" font-weight="800" fill="url(#olamGradient)">O</text>
+  <text x="52" y="48" font-family="Poppins, Arial, sans-serif" font-size="48" font-weight="800" fill="#111">LAM</text>
+  <path d="M6 56 Q40 10 124 54" fill="none" stroke="#007bff" stroke-width="6" stroke-linecap="round" opacity="0.25" />
+</svg>
